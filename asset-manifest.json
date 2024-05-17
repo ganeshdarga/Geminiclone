@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Geminiclone/static/css/main.5f2ddbed.css",
+    "main.js": "/Geminiclone/static/js/main.7fb50924.js",
+    "static/js/453.ae4174d7.chunk.js": "/Geminiclone/static/js/453.ae4174d7.chunk.js",
+    "static/media/ai.jpg": "/Geminiclone/static/media/ai.29613b81c0c8def0b04e.jpg",
+    "static/media/user_icon.png": "/Geminiclone/static/media/user_icon.8819483ee7d653116bf2.png",
+    "static/media/gallery_icon.png": "/Geminiclone/static/media/gallery_icon.1da1416be560b7741007.png",
+    "index.html": "/Geminiclone/index.html",
+    "main.5f2ddbed.css.map": "/Geminiclone/static/css/main.5f2ddbed.css.map",
+    "main.7fb50924.js.map": "/Geminiclone/static/js/main.7fb50924.js.map",
+    "453.ae4174d7.chunk.js.map": "/Geminiclone/static/js/453.ae4174d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f2ddbed.css",
+    "static/js/main.7fb50924.js"
+  ]
+}
