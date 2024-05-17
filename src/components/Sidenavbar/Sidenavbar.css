@@ -1,0 +1,75 @@
+.sidenavbar{
+    min-height: 100vh;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: rgb(242, 239, 239);
+    padding: 10px 15px;
+}
+.sidenavbar img{
+    width: 20px;
+}
+.sidenavbar .new-chat{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding-left:15px;
+    background-color: white;
+    border-radius: 50px;
+    font-size: 14px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.new-chat img{
+    padding-right: 2px;
+}
+.menu{
+    margin: 20px;
+    cursor: pointer;
+}
+
+.recent{
+    margin-left: 1px !important;
+    padding: 8px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding-left: 16px;
+    margin-bottom: 10px;
+    background-color: white;
+    border-radius: 50px;
+    font-size: 14px;
+    cursor: pointer;
+}
+.recent :hover{
+    background-color: aliceblue;
+}
+.sidenavbar .new-chat :hover{
+    background-color: aliceblue;
+}
+.help :hover{
+    background-color: aliceblue;
+}
+.new-chat:hover{
+    background-color: aliceblue;
+}
+.recent:hover{
+    background-color: aliceblue;
+}
+.recent1{
+    margin-left: 2px !important;
+    padding: 8px;
+    align-items: center;
+    display: flex;
+    gap: 10px;
+    padding-left: 15px;
+    margin-bottom: 10px;
+    background-color: white;
+    border-radius: 50px;
+    font-size: 14px;
+    cursor: pointer;
+}
+.recent1:hover{
+    background-color: aliceblue;
+}
